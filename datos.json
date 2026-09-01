@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Xavier",
+    "hora": 19,
+    "jugadores": 12,
+    "estado": "Aceptada",
+    "motivo": "La solicitud cumple con el horario y la capacidad permitida."
+  },
+  {
+    "nombre": "Carlos",
+    "hora": 20,
+    "jugadores": 18,
+    "estado": "Rechazada por capacidad",
+    "motivo": "Se supera la capacidad maxima de 14 jugadores."
+  },
+  {
+    "nombre": "Pedro",
+    "hora": 23,
+    "jugadores": 10,
+    "estado": "Rechazada por horario",
+    "motivo": "La cancha esta fuera de su horario de funcionamiento."
+  },
+  {
+    "nombre": "Matias",
+    "hora": -2,
+    "jugadores": 10,
+    "estado": "Dato invalido",
+    "motivo": "La hora o la cantidad de jugadores no es valida."
+  },
+  {
+    "nombre": "Xavier Laya",
+    "hora": 20,
+    "jugadores": 12,
+    "estado": "Aceptada",
+    "motivo": "La solicitud cumple con el horario y la capacidad permitida."
+  }
+]
